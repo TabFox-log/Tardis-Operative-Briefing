@@ -21,6 +21,8 @@ This display, alongside the Travel Display and the [Music Panel Display](display
 
 ### Battery section
 
+This section exclusively includes a **bar with the power level** of the **Tardis.** The battery must be **kept charged** at all times. This is explained in [**this section**](advanced-operation.md#managing-the-battery-level) **in Advanced Operation.**
+
 ### Location section
 
 ### Output section

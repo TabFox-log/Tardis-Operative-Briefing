@@ -41,4 +41,8 @@ You can **invert the position** of both levers in one go by [**pushing any of th
 
 The Tardis Stop Charge Request, also known as TSC Request
 
+## Managing the battery level
+
+pass
+
 [^1]: Right-click any of the two levers.
