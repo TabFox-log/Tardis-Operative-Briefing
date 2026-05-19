@@ -33,10 +33,23 @@ All steps have their respective switches, levers and buttons shown on the images
 
 This sequence shall power up the Tardis. To execute most other sequences, you will need to have powered the Tardis on before.
 
-1. Flick the **Alpha H** switch, followed by the **Alpha C** switch.
-2. Flip the **Stott Switch 11.**
-3. Pull down the **R-Stabilizer.**
-4. Pull the **Power Lever.**
+{% stepper %}
+{% step %}
+Flick the **Alpha H** switch, followed by the **Alpha C** switch.
+{% endstep %}
+
+{% step %}
+Flip the **Stott Switch 11.**
+{% endstep %}
+
+{% step %}
+Pull down the **R-Stabilizer.**
+{% endstep %}
+
+{% step %}
+Pull the **Power Lever.**
+{% endstep %}
+{% endstepper %}
 
 <div><figure><img src=".gitbook/assets/2.png" alt=""><figcaption><p>Alpha H and C, Stott Switch 11, R-Stabilizer</p></figcaption></figure> <figure><img src=".gitbook/assets/3.png" alt=""><figcaption><p>Power Lever</p></figcaption></figure></div>
 
@@ -46,9 +59,19 @@ This sequence shall power up the Tardis. To execute most other sequences, you wi
 
 QuickStart allows you to **power the Tardis up faster** by using a shorter sequence, though it will have its **range of capabilities limited** until completely booted up. It is **recommended to not use this approach** unless it is impossible to do otherwise.
 
-1. Flick the **Alpha C** switch.
-2. Flip the **Stott Switch 11.**
-3. Pull the **Power Lever.**
+{% stepper %}
+{% step %}
+Flick the **Alpha C** switch.
+{% endstep %}
+
+{% step %}
+Flip the **Stott Switch 11.**
+{% endstep %}
+
+{% step %}
+Pull the **Power Lever.**
+{% endstep %}
+{% endstepper %}
 
 <div><figure><img src=".gitbook/assets/2.png" alt=""><figcaption><p>Alpha C, Stott Switch 11</p></figcaption></figure> <figure><img src=".gitbook/assets/3.png" alt=""><figcaption><p>Power Lever</p></figcaption></figure></div>
 
@@ -56,8 +79,15 @@ QuickStart allows you to **power the Tardis up faster** by using a shorter seque
 
 To finalize the QuickStart startup procedure, and completely power the Tardis up, complete the sequence with the steps explained here. This completion will finish as if you had ran the normal Initialization sequence.
 
-1. Flick the **Alpha H** switch.
-2. Pull down the **R-Stabilizer.**
+{% stepper %}
+{% step %}
+Flick the **Alpha H** switch.
+{% endstep %}
+
+{% step %}
+Pull down the **R-Stabilizer.**
+{% endstep %}
+{% endstepper %}
 
 <figure><img src=".gitbook/assets/2.png" alt=""><figcaption><p>Alpha H, R-Stabilizer</p></figcaption></figure>
 
@@ -79,7 +109,7 @@ The Pressure Gauges are located at these positions:
 **Proceed with caution**, as turning the Release Rotators will make the pressure exit its chamber **rapidly**, causing a [**very loud sound** that could **damage your ears**](#user-content-fn-1)[^1]**.**
 {% endhint %}
 
-To relieve the pressure, turn the Release Rotators shown in the following images:
+To relieve the pressure, **turn the Release Rotators** shown in the following images **(C-Pressure Release, S-Pressure Release):**
 
 <figure><img src=".gitbook/assets/2.png" alt=""><figcaption><p>C-Pressure and S-Pressure Release Rotators</p></figcaption></figure>
 
@@ -132,10 +162,23 @@ Dematerialization is the process of **disappearing from your current location an
 
 Initializing a Dematerialization sequence requires following the sequence presented below.
 
-1. Pull down the **L-Stabilizer.**
-2. Flip **Stott Switches 1, 3, 4, 6 and 10 in order.**
-3. Pull down the **Yellow Retro Lever**, followed by the **Green Retro Lever.**
-4. Pull the **Main Lever** (without splitting it).
+{% stepper %}
+{% step %}
+Pull down the **L-Stabilizer.**
+{% endstep %}
+
+{% step %}
+Flip **Stott Switches 1, 3, 4, 6 and 10 in order.**
+{% endstep %}
+
+{% step %}
+Pull down the **Yellow Retro Lever**, followed by the **Green Retro Lever.**
+{% endstep %}
+
+{% step %}
+Pull the **Main Lever** (without splitting it).
+{% endstep %}
+{% endstepper %}
 
 This will initiate the Dematerialization process.
 
@@ -147,10 +190,23 @@ Check out this related section on how to make [Rematerialization and Demateriali
 
 Please note that following this sequence is not required if you have enabled the Auto-Land feature. The Auto-Land feature is further explained in [this section.](basic-operation.md#autoland)
 
-1. Pull the **L-Stabilizer** back up.
-2. Push the **Green Retro Lever** back up, followed by the **Yellow Retro Lever.**
-3. Disable **Stott Switches 10, 6, 4, 3 and 1 in order.**
-4. Push the **Main Lever** back.
+{% stepper %}
+{% step %}
+Pull the **L-Stabilizer** back up.
+{% endstep %}
+
+{% step %}
+Push the **Green Retro Lever** back up, followed by the **Yellow Retro Lever.**
+{% endstep %}
+
+{% step %}
+Disable **Stott Switches 10, 6, 4, 3 and 1 in order.**
+{% endstep %}
+
+{% step %}
+Push the **Main Lever** back.
+{% endstep %}
+{% endstepper %}
 
 <div><figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -158,7 +214,11 @@ Please note that following this sequence is not required if you have enabled the
 
 The Auto-Land feature will, as the name states, **automatically land the Tardis** and **execute the Materialization sequence** without the necessity of doing anything. The toggle **can be enabled at any point** (before, during or after a flight)￼.
 
-1. Flick the **Auto-Land Switch.**
+{% stepper %}
+{% step %}
+Flick the **Auto-Land Switch.**
+{% endstep %}
+{% endstepper %}
 
 <figure><img src=".gitbook/assets/3.png" alt=""><figcaption><p>Auto-Land</p></figcaption></figure>
 
@@ -168,10 +228,23 @@ The Auto-Land feature **can be disabled** at any point as well by simply **flick
 
 This sequence will **power down** the Tardis.
 
-1. Flick the **Alpha H** switch, followed by the **Alpha C** switch.
-2. Flip the **Stott Switch 11.**
-3. Pull down the **R-Stabilizer.**
-4. Pull the **Power Lever.**
+{% stepper %}
+{% step %}
+Flick the **Alpha H** switch, followed by the **Alpha C** switch.
+{% endstep %}
+
+{% step %}
+Flip the **Stott Switch 11.**
+{% endstep %}
+
+{% step %}
+Pull down the **R-Stabilizer.**
+{% endstep %}
+
+{% step %}
+Pull the **Power Lever.**
+{% endstep %}
+{% endstepper %}
 
 <div><figure><img src=".gitbook/assets/2.png" alt=""><figcaption><p>Alpha H and C, Stott Switch 11, R-Stabilizer</p></figcaption></figure> <figure><img src=".gitbook/assets/3.png" alt=""><figcaption><p>Power Lever</p></figcaption></figure></div>
 

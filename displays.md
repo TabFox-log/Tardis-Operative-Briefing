@@ -21,9 +21,13 @@ This display, alongside the Travel Display and the [Music Panel Display](display
 
 ### Battery section
 
-This section exclusively includes a **bar with the power level** of the **Tardis.** The battery must be **kept charged** at all times. This is explained in [**this section**](advanced-operation.md#managing-the-battery-level) **in Advanced Operation.**
+This section exclusively includes a **bar with the power level** of the **Tardis.** The battery must be **kept charged** at all times. Managing the battery is explained in [**this section**](advanced-operation.md#managing-the-battery-level) **in Advanced Operation.**
 
 ### Location section
+
+The **location section,** featured in the middle of the Main Display, shows information about your **current location and timeline.**
+
+It displays your **current coordinates,** which indicate your location; the **Time Line,** which shows the **year,** and also includes an indicator for the scale the Time Line is in (Thousands in the case of the image presented as example); the **dimension you are currently in** and the **name and image of the planet** you are located at.&#x20;
 
 ### Output section
 
@@ -49,5 +53,9 @@ The music information that will be displayed in this screen is as follows:
 * The state of the [Music Panel Display](displays.md#music-display) by showing 'Music Panel Display Opening'
 
 ## Travel Display
+
+The **Travel Display** focuses on the location information of your Tardis. It expands upon the Location section of the main display.
+
+<figure><img src=".gitbook/assets/display3.png" alt=""><figcaption></figcaption></figure>
 
 ## Music Panel Display
