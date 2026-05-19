@@ -13,10 +13,6 @@ The coordinates listed include a [short summary](#user-content-fn-1)[^1] in each
 The coordinates **must be inputted from end to start (backwards)** as the input will move numbers left to right.
 {% endhint %}
 
-<p align="center"></p>
-
-<p align="center"><button type="button" class="button primary" data-action="search" data-icon="magnifying-glass">Search</button></p>
-
 <details>
 
 <summary><strong>Vitality - 752.561.911</strong></summary>
