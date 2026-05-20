@@ -26,7 +26,7 @@ layout:
 
 The Tardis is a complex entity, but it **can be operated by a one-man crew**. Regardless, it is **recommended to have at least two people on board**.
 
-This Operative Briefing will guide you, the Tardis Operative assigned to this Type 40, through its **essential commands** as well as some **other functions** you might find useful during your time as an Operative.
+This Operative Briefing will guide you, the Tardis Operative assigned to this Type 89, through its **essential commands** as well as some **other functions** you might find useful during your time as an Operative.
 
 We wish you good luck in the operation of your Tardis and hope you enjoy your time as an Operative.
 
