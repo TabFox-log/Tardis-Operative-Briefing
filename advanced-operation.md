@@ -33,7 +33,7 @@ These levers serve as brakes. Enabling any of the two will result in a **faster 
 You can **invert the position** of both levers in one go by [**pushing any of the two into the hinge,**](#user-content-fn-1)[^1] as one would do for a button.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/1.png" alt=""><figcaption><p>Dematerialize Haltie, Materialize Haltie</p></figcaption></figure>
+<div><figure><img src=".gitbook/assets/special4.png" alt=""><figcaption><p>Both Haltie Levers closeup</p></figcaption></figure> <figure><img src=".gitbook/assets/1.png" alt="" width="563"><figcaption><p>Dematerialize Haltie, Materialize Haltie</p></figcaption></figure></div>
 
 ## Tardis Charging
 
@@ -65,7 +65,9 @@ You must always keep in mind that **attempting to leave without** **stopping** t
 
 To make sure your Tardis is no longer charging, you can **click on the TSC Request Button,** or Tardis Stop Charge Request button, which **will attempt** a Stop Charge request. This **may not work** at all times, so keep an eye on the **output of the request** on your **Main Display.**
 
-The Tardis Stop Charge Request, also known as TSC Request
+<figure><img src=".gitbook/assets/special10.png" alt=""><figcaption><p>Tardis Stop Charge (TSC) Request button</p></figcaption></figure>
+
+Once the **TSC Request button** **has been pressed,** and the **charging has stopped,** you **may use your Tardis normally.**
 
 
 
