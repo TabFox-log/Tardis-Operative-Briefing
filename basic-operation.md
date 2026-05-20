@@ -226,7 +226,7 @@ The Auto-Land feature **can be disabled** at any point as well by simply **flick
 
 ## Deinitialization
 
-This sequence will **power down** the Tardis.
+This sequence will **power down** (Deinitialize) the Tardis.
 
 {% stepper %}
 {% step %}
