@@ -170,5 +170,37 @@ open music pane (panel 6)
 
 {% embed url="https://docs.google.com/document/d/1NSZUEzlV1y5h9HFC0cAYeKADS6vHeP5jyMxE-5vyatQ/edit?usp=sharing" %}
 
-what is lambent mode
+what is lambent mode -> mode where the retro levers change color of light (t off)
 
+
+
+
+
+{% embed url="https://www.youtube.com/watch?v=udvjnuoEKeA" %}
+
+bug /\ <br>
+
+| 1- Turn On The Lambent Mode     |
+| ------------------------------- |
+| 2- Activate the A-Vibe/T button |
+| Press 'Vibe' button once        |
+| TARDIS operational = False      |
+| Lambent Mode still active       |
+| 3- Power Up Sequence            |
+
+
+
+1. You turn on restricted flight Then flip safeguard B then press the safeguard pedal that comes down from the bottom of the console and take off at the same time.
+   1. for safe emergency demat
+
+
+
+{% embed url="https://www.youtube.com/watch?v=dRjvTWHTlOU&pp=ygUTcHJvIHRhcmRpcyB0dXRvcmlhbA%3D%3D" %}
+
+
+
+
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfPO3_F-G2VvYPSaEgNsmAQ8n0lbEDrFsm_9gjxmx8hhO6VQQ/viewform" %}
+
+&#x20;/\ unnecessary but still
