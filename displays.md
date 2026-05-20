@@ -52,10 +52,18 @@ The music information that will be displayed in this screen is as follows:
 * The currently playing song in the following format: 'Music - \[Song name]'
 * The state of the [Music Panel Display](displays.md#music-display) by showing 'Music Panel Display Opening'
 
+### Main Display Movement
+
+The screen has **full mobility** to be moved **to all sides of the control panel.** [You can move it](#user-content-fn-1)[^1] using the **handles** on **both sides of the display.**
+
 ## Travel Display
 
-The **Travel Display** focuses on the location information of your Tardis. It expands upon the Location section of the main display.
+The **Travel Display** focuses on the **location information** of your Tardis. It **expands upon** the **Location section of the main display.**
 
 <figure><img src=".gitbook/assets/display3.png" alt=""><figcaption></figcaption></figure>
 
 ## Music Panel Display
+
+[^1]: Move to the **right, left-click.**\
+    Move to the **left, right-click.**\
+    Click the **side the display is on.**

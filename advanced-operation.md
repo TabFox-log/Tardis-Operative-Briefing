@@ -25,13 +25,29 @@ layout:
 
 ## Reset Switch
 
-This switch will Deinitialize your Tardis and return all the switches to their default position. This allows you to recover a Tardis from a botched sequence, if you are unable to on your own.
+This switch will **Deinitialize** your Tardis and **return all the switches to their default position.** This allows you to **recover** a Tardis from a **botched sequence,** if you are **unable to on your own.**
 
 {% hint style="warning" %}
 _**Never**_**&#x20;use the Reset Switch** to **simply Deinitialize the Tardis.** Every Reset Switch use _**damages**_**&#x20;the Tardis.**
 {% endhint %}
 
 The Reset Switch has a **300-second inactivity period** during which **it cannot be used.** It **will** also **not respond** if activated while the Tardis is **executing a different function.** The time remaining is shown on the [**Main Display.**](displays.md#main-display)
+
+## Code Pad
+
+### Introduction
+
+The **Code Pad** allows you to **enter specific codes** to **control the lighting** of the Tardis.
+
+### Codes
+
+| Code | Function                       |
+| ---- | ------------------------------ |
+| 001  | Will **lock the** **Code Pad** |
+| 002  | Will toggle Rotator lighting   |
+| 003  |                                |
+| 004  |                                |
+| 005  |                                |
 
 ## Haltie Levers
 
@@ -94,6 +110,16 @@ This process **cannot be stopped,** and it **shouldn't be,** as being **stranded
 ## Safe-Guard B
 
 ## Code Pad
+
+## Tooflips
+
+### Crashing your Tardis' software
+
+Enabling **all the Tooflips** will cause the **Main Display's software to crash.** This can be necessary in some cases, but it is **not recommended,** as **t**he crash screen **will collect information** for the crash-log, and this **info gathering will take time.**
+
+
+
+
 
 
 
