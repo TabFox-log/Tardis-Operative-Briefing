@@ -41,6 +41,8 @@ The **Code Pad** allows you to **enter specific codes** to **control the lightin
 
 ### Codes
 
+The **codes available** in the code pad are the following:
+
 | Code | Function                                              |
 | ---- | ----------------------------------------------------- |
 | 001  | Will **lock the** **Code Pad**                        |
@@ -48,6 +50,18 @@ The **Code Pad** allows you to **enter specific codes** to **control the lightin
 | 003  | Will toggle **dimming** for the **Rotator lighting.** |
 | 004  | Will toggle **Floor lighting.**                       |
 | 005  | Will toggle the Floor lighting's animation            |
+
+### Extra buttons
+
+These buttons are **important to know** to utilize the Code Pad:
+
+| Button | Function                                                                            |
+| ------ | ----------------------------------------------------------------------------------- |
+| Set    | **Sets** the code **currently inputted.**                                           |
+| RST    | **Removes** any code **inputted** into the Code Pad.                                |
+| PRT    | Prints the currently inputted code to the [Main Display.](displays.md#main-display) |
+| LCK    |                                                                                     |
+| BCK    |                                                                                     |
 
 ## Haltie Levers
 
@@ -108,8 +122,6 @@ If the Tardis runs **too low on battery,** it will **automatically** travel to t
 This process **cannot be stopped,** and it **shouldn't be,** as being **stranded** within your Tardis is a **dangerous situation.**
 
 ## Safe-Guard B & A
-
-## Code Pad
 
 ## Tooflips
 
