@@ -1,5 +1,5 @@
 ---
-description: Images related to the Tardis.
+description: All the images present in this manual excluding the Index images.
 icon: image
 layout:
   width: default

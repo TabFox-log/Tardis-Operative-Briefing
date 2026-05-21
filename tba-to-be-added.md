@@ -106,9 +106,7 @@ When you flip Alpha E then F, then stott 1 then the retro switches, obviously th
 
 There is 2 tiny little levers on panel 4 they used to lock/unlock pressure valves. Sometimes it just doesnt work, dont worry play with them and maybe you'll unlock both valves then pressure will relase evenly at the same time.<br>
 
-
-
-'Cause y'all pretty dumb...\
+\
 &#x20;**CheckLights:** \
 TC = TakeOff CheckLight \
 LC = Land CheckLight \

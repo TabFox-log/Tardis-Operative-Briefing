@@ -1,7 +1,7 @@
 ---
 description: >-
-  Sequences or switches that you might find useful as a quality-of-life addition
-  to the Basic Operation procedures.
+  Sequences or switches that you might find useful as an extension to the Core
+  Operation procedures.
 icon: server
 layout:
   width: default
@@ -41,13 +41,13 @@ The **Code Pad** allows you to **enter specific codes** to **control the lightin
 
 ### Codes
 
-| Code | Function                       |
-| ---- | ------------------------------ |
-| 001  | Will **lock the** **Code Pad** |
-| 002  | Will toggle Rotator lighting   |
-| 003  |                                |
-| 004  |                                |
-| 005  |                                |
+| Code | Function                                              |
+| ---- | ----------------------------------------------------- |
+| 001  | Will **lock the** **Code Pad**                        |
+| 002  | Will toggle **Rotator lighting.**                     |
+| 003  | Will toggle **dimming** for the **Rotator lighting.** |
+| 004  | Will toggle **Floor lighting.**                       |
+| 005  | Will toggle the Floor lighting's animation            |
 
 ## Haltie Levers
 
@@ -101,13 +101,13 @@ This method _**must**_**&#x20;be used if the Tardis is charging and you wish to 
 
 Once the **TSC Request button** **has been pressed,** and the **charging has stopped,** you **may use your Tardis normally.**
 
-### Emergency battery procedure
+### Emergency Recharge Procedure
 
-If the Tardis runs **too low on battery,** it will **automatically** travel to the **nearest Artron star** and **recharge.**
+If the Tardis runs **too low on battery,** it will **automatically** travel to the **nearest Artron star** and **recharge.** This procedure will **begin** **at** **10% remaining battery.**
 
 This process **cannot be stopped,** and it **shouldn't be,** as being **stranded** within your Tardis is a **dangerous situation.**
 
-## Safe-Guard B
+## Safe-Guard B & A
 
 ## Code Pad
 

@@ -1,5 +1,5 @@
 ---
-description: All information pertaining to displays on your Tardis.
+description: Information pertaining to displays on your Tardis.
 icon: display
 ---
 
@@ -22,6 +22,8 @@ This display, alongside the Travel Display and the [Music Panel Display](display
 ### Battery section
 
 This section exclusively includes a **bar with the power level** of the **Tardis.** The battery must be **kept charged** at all times. Managing the battery is explained in [**this section**](advanced-operation.md#managing-the-battery-level) **in Advanced Operation.**
+
+The bar will turn **orange under 40%** and **red under 20%.**
 
 ### Location section
 

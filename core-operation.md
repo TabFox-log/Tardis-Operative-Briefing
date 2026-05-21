@@ -1,6 +1,6 @@
 ---
 description: Basic sequences you must know for an effective operation of your Tardis.
-icon: table-list
+icon: gears
 layout:
   width: default
   title:
@@ -19,7 +19,9 @@ layout:
     visible: true
 ---
 
-# Basic Operation
+# Core Operation
+
+
 
 ***
 
@@ -148,7 +150,7 @@ The Time Dial is a **slower but more precise** time travel method.
 
 Turning the Time Dial [**towards the right**](#user-content-fn-3)[^3] will **increment the year by one**. Turning it [**towards the left**](#user-content-fn-4)[^4] will have the opposite effect, **turning back time one year**.
 
-Once you have selected you desired year, you must **Dematerialize and Materialize** to travel to the selected year. This is explained in the [following section.](basic-operation.md#dematerialization-and-rematerialization)
+Once you have selected you desired year, you must **Dematerialize and Materialize** to travel to the selected year. This is explained in the [following section.](core-operation.md#dematerialization-and-rematerialization)
 
 Otherwise, if you are **already in flight**, you may simply **select your year of destination** and land.
 
@@ -188,7 +190,7 @@ Check out this related section on how to make [Rematerialization and Demateriali
 
 ### Materialization
 
-Please note that following this sequence is not required if you have enabled the Auto-Land feature. The Auto-Land feature is further explained in [this section.](basic-operation.md#autoland)
+Please note that following this sequence is not required if you have enabled the Auto-Land feature. The Auto-Land feature is further explained in [this section.](core-operation.md#autoland)
 
 {% stepper %}
 {% step %}
